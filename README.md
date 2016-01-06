@@ -1,3 +1,5 @@
+TEST
+
 View, visualize and transform data in the browser.
 
 Data Explorer is a browser-based (pure HTML + JS) open-source application for
